@@ -1,3 +1,3 @@
-#pizza Game stage-1
+#pizza Game stage-2
 
-https://janitahaasini.github.io/pizza-game-1/
+
